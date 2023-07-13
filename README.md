@@ -1,4 +1,4 @@
-# FM Radio Receiver
+# SDR FM Radio Receiver
 
 This project serves as my first foray into the world of software-defined radio (SDR), specifically utilizing RTL-SDR and GNU Radio. Considered to be the "hello world" of SDR, it has provided me with an opportunity to learn the fundamentals of SDR and create a useful FM radio receiver. Throughout the development process, I enjoyed working with RTL-SDR and discovered that GNU Radio shares similarities with Simulink, making it an intuitive platform to work with.
 
