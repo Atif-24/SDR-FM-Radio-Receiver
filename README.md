@@ -22,29 +22,13 @@ If you are interested in using the same RTL-SDR device, you can find it on Amazo
 
 ## GNU Radio Flowchart
 
-![GNU Radio Flowchart](gnu-radio-flowchart.jpg)
+![GNU Radio Flowchart](https://github.com/Atif-24/SDR-FM-Radio-Receiver/blob/39935e1925c4b8bd6a7335f6cc482b3169c6f8f5/GNU%20FM%20Radio%20Receiver/Flowchart.png)
 
 To create the flowchart for the FM Radio Receiver, I followed the instructions and guidance provided in the [RTL-SDR FM Radio Receiver with GNU Radio Companion](https://www.instructables.com/RTL-SDR-FM-radio-receiver-with-GNU-Radio-Companion/) instructable tutorial. This tutorial served as a valuable resource in understanding the required signal processing blocks and their connections to receive and demodulate FM radio signals.
 
 ## GUI (Graphical User Interface)
 
-![FM Radio Receiver GUI](gui-screenshot.jpg)
+![FM Radio Receiver GUI](https://github.com/Atif-24/SDR-FM-Radio-Receiver/blob/39935e1925c4b8bd6a7335f6cc482b3169c6f8f5/GNU%20FM%20Radio%20Receiver/GUI.png)
 
 The graphical user interface (GUI) for the FM Radio Receiver was developed through my own experimentation and exploration with the available GNU Radio blocks. By playing around with the blocks and their settings, I was able to create a GUI that provides an intuitive and user-friendly interface for controlling various functions of the receiver. This customization allowed me to tailor the GUI to suit the specific needs and preferences of the FM Radio Receiver project.
 
-## Contributing
-
-Contributions to the FM Radio Receiver project are welcome! If you would like to contribute, please follow these steps:
-
-1. Fork the repository and create a new branch.
-2. Make your changes and commit them.
-3. Push your changes to your forked repository.
-4. Submit a pull request describing your contributions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For any questions or inquiries about the FM Radio Receiver project, please contact me at fmradio@project.com. I would be delighted to hear your feedback and suggestions.
