@@ -6,13 +6,15 @@
 
 
 
-![GNU Radio GUI](radio-receiver-image.jpg)
 
 This project serves as my first foray into the world of software-defined radio (SDR), specifically utilizing RTL-SDR and GNU Radio. Considered to be the "hello world" of SDR, it has provided me with an opportunity to learn the fundamentals of SDR and create a useful FM radio receiver. Throughout the development process, I enjoyed working with RTL-SDR and discovered that GNU Radio shares similarities with Simulink, making it an intuitive platform to work with.
 
 ## Overview
 
 The FM Radio Receiver is designed to receive FM radio signals across a wide frequency range of 88 to 107 MHz. By leveraging RTL-SDR and GNU Radio, this project enables users to tune in to their favorite radio stations with ease. Additionally, it includes features such as user-friendly station switching and frequency monitoring with a visual waterfall spectrogram, all aimed at enhancing convenience, usability, and reception quality for listeners.
+
+
+![GNU Radio GUI](radio-receiver-image.jpg)
 
 ## Features
 
